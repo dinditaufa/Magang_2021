@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MAGANG</string>
+    <string name="gudang">GUDANG</string>
+    <string name="jumlah_bawang">Jumlah Bawang :</string>
+    <string name="jumlah_kobis">Jumlah Kobis :</string>
+    <string name="about">About</string>
+    <string name="histori">Histori</string>
+    <string name="_20">20</string>
+    <string name="_40">40</string>
+    <string name="_120">120</string>
+    <string name="belum_ada_barang">Belum Ada Barang</string>
+    <string name="Bawang_x">Bawang : %1$.1f</string>
+    <string name="Kobis_x">Kobis : %1$.1f</string>
+    <string name="hapus">Hapus</string>
+    <string name="hapushistori">HapusHistori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="batal">Batal</string>
+    <string name="hitung">Hitung</string>
+</resources>
